@@ -7,4 +7,4 @@
 ## How to initialize/run your application (where applicable)
 ==> pytest 
 
-[Pythonic garage band](.https://github.com/MutazAbutaha/pythonic-garage-band/tree/main)
+[LAB - Class 04 : Pythonic garage band](https://github.com/MutazAbutaha/pythonic-garage-band/tree/main)
