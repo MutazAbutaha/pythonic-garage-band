@@ -8,9 +8,6 @@ class Musician :
    def __repr__(self):
       return f'{self.tool} instance. Name = {self.name}'
    
-   def get_instrument(self):
-    return f'{self.inst}'
-   
 
 class Guitarist(Musician):
    inst ='guitar'
